@@ -1,0 +1,23 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "==> mern stack  {  m=mogodb (database), e=express(library), r=react(front-end library), n=node (run time envinronment)}",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev"  :"nodemon sever.js"
+    },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumanjhoshi33/node-js.git"
+  },
+  "author": "gauarv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumanjhoshi33/node-js/issues"
+  },
+  "homepage": "https://github.com/sumanjhoshi33/node-js#readme",
+  "dependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
